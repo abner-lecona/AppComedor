@@ -57,6 +57,7 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="812dp"
                 android:layout_height="77dp"
+                android:singleLine="true"
                 android:fontFamily="@font/poppins"
                 android:hint="Usuario / No. Comedor"
                 android:textSize="24sp" />
@@ -73,6 +74,7 @@
                 android:layout_height="77dp"
                 android:fontFamily="@font/poppins"
                 android:hint="Contraseña"
+                android:singleLine="true"
                 android:password="true"
                 android:textSize="24sp" />
         </com.google.android.material.textfield.TextInputLayout>

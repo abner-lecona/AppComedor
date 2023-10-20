@@ -49,6 +49,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/poppins"
                             android:hint="Nombre"
+                            android:singleLine="true"
                             android:textSize="24sp" />
                     </com.google.android.material.textfield.TextInputLayout>
                 </LinearLayout>
@@ -71,6 +72,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/poppins"
                             android:hint="Apellido Paterno"
+                            android:singleLine="true"
                             android:textSize="24sp"
                             android:typeface="normal" />
                     </com.google.android.material.textfield.TextInputLayout>
@@ -85,6 +87,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/poppins"
                             android:hint="Apellido Materno"
+                            android:singleLine="true"
                             android:textSize="24sp" />
                     </com.google.android.material.textfield.TextInputLayout>
                 </LinearLayout>
@@ -107,6 +110,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/poppins"
                             android:hint="CURP"
+                            android:singleLine="true"
                             android:maxLength="18"
                             android:textSize="24sp" />
                     </com.google.android.material.textfield.TextInputLayout>
@@ -171,6 +175,7 @@
                         android:ems="10"
                         android:fontFamily="@font/poppins"
                         android:hint="Celular"
+                        android:singleLine="true"
                         android:inputType="number"
                         android:textSize="24sp" />
 
@@ -197,6 +202,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/poppins"
                             android:hint="Correo Electronico"
+                            android:singleLine="true"
                             android:textSize="24sp" />
                     </com.google.android.material.textfield.TextInputLayout>
                 </LinearLayout>

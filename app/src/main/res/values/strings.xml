@@ -16,4 +16,5 @@
     <string name="menu_reportes">Reportar Problema</string>
     <string name="menu_reportes_ayuda">¿En qué consisten los informes?</string>
     <string name="menu_usuario_registrado">Usuario Registrado</string>
+    <string name="menu_cerrarSesion">Cerrar Sesion</string>
 </resources>

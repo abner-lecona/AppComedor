@@ -26,9 +26,4 @@
         <item name="colorControlNormal">@color/orange_900</item>
     </style>
 
-
-    <color name="yellow_500">#FFC700</color>
-    <color name="orange_900">#FF9800</color>
-    <color name="pink">#CD6789</color>
-
 </resources>

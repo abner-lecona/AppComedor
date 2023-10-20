@@ -57,6 +57,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/poppins"
                             android:hint="Entrada 1"
+                            android:singleLine="true"
                             android:textSize="22dp" />
                     </com.google.android.material.textfield.TextInputLayout>
 
@@ -70,6 +71,7 @@
                             android:layout_marginLeft="16dp"
                             android:fontFamily="@font/poppins"
                             android:hint="Entrada 2"
+                            android:singleLine="true"
                             android:textSize="22dp" />
                     </com.google.android.material.textfield.TextInputLayout>
                 </LinearLayout>
@@ -92,6 +94,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/poppins"
+                        android:singleLine="true"
                         android:textSize="22dp" />
                 </com.google.android.material.textfield.TextInputLayout>
 
@@ -113,6 +116,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/poppins"
+                        android:singleLine="true"
                         android:textSize="24dp" />
                 </com.google.android.material.textfield.TextInputLayout>
 
@@ -132,6 +136,7 @@
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="match_parent"
+                        android:singleLine="true"
                         android:layout_height="wrap_content" />
                 </com.google.android.material.textfield.TextInputLayout>
 

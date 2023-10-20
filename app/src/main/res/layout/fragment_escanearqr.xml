@@ -97,6 +97,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/poppins"
                     android:hint="ID / CURP"
+                    android:singleLine="true"
                     android:textSize="24sp" />
             </com.google.android.material.textfield.TextInputLayout>
 
